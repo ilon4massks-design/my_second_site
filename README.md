@@ -1,2 +1,2 @@
-# my_second_site
+# my_second_less_intensive
 mysecond less intensive
